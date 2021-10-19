@@ -4,6 +4,9 @@
 # KetnipzR
 
 <!-- badges: start -->
+
+![R-CMD-check](https://github.com/lucassxs/KetnipzR/actions/workflows/check-release.yaml/badge.svg)
+
 <!-- badges: end -->
 
 The goal of KetnipzR is to …
@@ -23,8 +26,8 @@ devtools::install_github("lucassxs/KetnipzR")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-# library(KetnipzR)
-## basic example code
+#library(KetnipzR)
+# ketnipz_r()
 ```
 
 In that case, don’t forget to commit and push the resulting figure
