@@ -6,6 +6,10 @@
 <!-- badges: start -->
 
 ![R-CMD-check](https://github.com/lucassxs/KetnipzR/actions/workflows/check-release.yaml/badge.svg)
+[![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://www.tidyverse.org/lifecycle/#stable)
+[![License: LGPL
+v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+
 <!-- badges: end -->
 
 The goal of KetnipzR is to …
