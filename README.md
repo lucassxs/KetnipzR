@@ -1,12 +1,11 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# KetnipzR
+# KetnipzR <img src="hexketnipz.png" width="240px" align="right" />
 
 <!-- badges: start -->
 
 ![R-CMD-check](https://github.com/lucassxs/KetnipzR/actions/workflows/check-release.yaml/badge.svg)
-
 <!-- badges: end -->
 
 The goal of KetnipzR is to …
