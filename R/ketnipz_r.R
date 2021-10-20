@@ -8,7 +8,7 @@
 ketnipz_r <- function(){
   tmp <- tempfile(fileext = ".jpeg")
   utils::download.file(
-    "https://www.instagram.com/ketnipz/",
+    "https://www.picuki.com/profile/ketnipz",
     tmp,
     quiet = TRUE
   )
