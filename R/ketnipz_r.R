@@ -6,9 +6,9 @@
 #'
 
 ketnipz_r <- function(){
-  tmp <- tempfile(fileext = ".jpeg")
+  tmp <- tempfile(fileext = ".jpeg", ".mp4")
   utils::download.file(
-    "https://www.picuki.com/profile/ketnipz",
+    "https://www.instagram.com/ketnipz/",
     tmp,
     quiet = TRUE
   )
@@ -16,4 +16,5 @@ ketnipz_r <- function(){
     jpeg::readJPEG() %>%
     grDevices::as.raster() %>%
     graphics::plot()
+
 }
